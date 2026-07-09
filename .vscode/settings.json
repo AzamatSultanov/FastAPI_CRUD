@@ -1,0 +1,4 @@
+{
+  "python.analysis.extraPaths": ["./app/repositories"],
+  "python-envs.defaultEnvManager": "ms-python.python:system"
+}
