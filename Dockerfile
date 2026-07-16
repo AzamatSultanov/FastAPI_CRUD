@@ -1,4 +1,3 @@
-# pre-configured linux machine, unnecessary tools are removed
 FROM python:3.10-slim
 
 RUN useradd -m appuser
